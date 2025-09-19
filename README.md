@@ -1,4 +1,4 @@
- Hi there 👋, I am Diplal Thakur
+ Hi there 👋, I am Diplal.
  
 - 🔭 I’m currently working on AVISEAT: flight booking system
 - 🌱 I’m currently learning Arduino
