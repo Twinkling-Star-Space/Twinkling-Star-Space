@@ -1,5 +1,6 @@
  Hi there 👋, I am Diplal.
- Nickname: DL THAKUR
+ Nickname: D L
+ Surname: Thakur
  
 - 🔭 I’m currently working on AVISEAT: flight booking system
 - 🌱 I’m currently learning Arduino
