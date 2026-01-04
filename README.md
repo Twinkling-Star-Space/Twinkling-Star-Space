@@ -1,10 +1,8 @@
  Hi there 👋, I am Diplal.
- Nickname: D L
- Surname: Thakur
+ Lastname: Thakur Barhi
  
-- 🔭 I’m currently working on AVISEAT: flight booking system
+- 🔭 I’m currently working on Website for my secondary school. 
 - 🌱 I’m currently learning Arduino
-- 👯 I’m looking to collaborate on AVISEAT
 - 😄 Pronouns: He
 
 ## 🌐 Socials:
