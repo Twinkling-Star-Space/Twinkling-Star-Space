@@ -1,5 +1,4 @@
- Hi there 👋, I am Diplal.
- Lastname: Thakur Barhi
+ Hi there 👋, I am Diplal Thakur Barhi
  
 - 🔭 I’m currently working on Website for my secondary school. 
 - 🌱 I’m currently learning Arduino
