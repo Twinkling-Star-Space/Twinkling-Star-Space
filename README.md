@@ -6,8 +6,31 @@
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/diplal.thakur.466538) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/DTB99_99) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/diplal-thakur-barhi-620479372) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@CSthalaAIphile) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:xaverianbarahi111@gmai.com) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/YOUR_DISCORD_ID) &nbsp;[![Tinkercad](https://img.shields.io/badge/Tinkercad-%2300BFFF.svg?logo=tinkercad&logoColor=white)](https://www.tinkercad.com/users/YOUR_USERNAME)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/diplal.thakur.466538) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/DTB99_99) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/diplal-thakur-barhi-620479372) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@CSthalaAIphile) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:xaverianbarahi111@gmai.com) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/YOUR_DISCORD_ID) &nbsp;[![Tinkercad](https://img.shields.io/badge/Tinkercad-%2300BFFF.svg?logo=tinkercad&logoColor=white)](https://www.tinkercad.com/users/7b6ewOhgW7N?type=circuits)
 
+## 🚀 Top Projects / Contributions
+
+<p align="center">
+
+### 💻 [Aviseat - Flight Booking System](https://github.com/Twinkling-Star-Space/Aviseat_mero_G12)  
+A complete **flight booking system** built in Python for managing flight search and booking.  
+
+### 🏫 [SSSS - School Website](https://github.com/Twinkling-Star-Space/SSSS)  
+A **school website** project to manage information, announcements, and resources.  
+
+### 🐍 [CS50 Python - Introduction to Python](https://github.com/code50/174038188)  
+Learned **Python basics** and solved exercises from CS50’s “Introduction to Python” course.  
+
+### 🛠️ [Web Tech Project - CRUD Operations](https://github.com/Twinkling-Star-Space/Web-tech-project-grade-12)  
+Web project demonstrating **CRUD operations** using HTML, PHP, MySQL, and JavaScript.  
+
+### ✍️ [Blog - Under Development](https://github.com/Twinkling-Star-Space/Blog)  
+A **personal blogging website** currently under development using modern web technologies.  
+
+### 📂 [Complete PHP Project](https://github.com/Twinkling-Star-Space/COMPLETE-PHP-PROJECT)  
+Practiced **database and XAMPP skills** with a fully functional PHP project.  
+
+</p>
 
 
 # 💻 Tech Stack:
@@ -22,9 +45,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Twinkling-Star-Space&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Twinkling-Star-Space&icon=0&color=0)](https://visitcount.itsvg.in)
